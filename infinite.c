@@ -2,7 +2,7 @@
 
 int main() {
     for (;;) { 
-        printf("This is an infinite loop.\n");
+        printf("This is an infinite loop brooo.\n");
     }
     return 0; 
 }
